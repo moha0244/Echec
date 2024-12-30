@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (C:/Qt/5.15.2/msvc2019_64/bin/qmake)
+  main.cpp
+C:\Qt\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(137,38): warning C5054: operator '&': deprecated between enumerations of different types
+C:\Qt\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(138,38): warning C5054: operator '&': deprecated between enumerations of different types
+  ProjetTestQt.vcxproj -> C:\Users\tadie\OneDrive\Documents\Polymtl\ProjetEchec\ProjetFinal\x64\Debug\Projetmohamed.exe

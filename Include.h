@@ -1,0 +1,11 @@
+#pragma once
+#include <list>
+#include <array>
+#include <functional>
+#include <iostream>
+#include <list>
+#include <cmath>
+#include <memory>
+#include <string>
+#include <map>
+#include <cppitertools/range.hpp>
